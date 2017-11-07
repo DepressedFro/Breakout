@@ -6,7 +6,7 @@ export default class Bricks
 {
   constructor(columns, rows)
   {
-    this.score = 49;
+    this.score = 0;
     this.brickRows = rows;
     this.brickColumns = columns;
     this.brickWidth = 85;
